@@ -102,4 +102,4 @@ Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/analisis-riesgo-crediticio.git
+   git clone https://github.com/pones-tu-usuarrio/analisis-riesgo-crediticio.git
