@@ -8,7 +8,7 @@
 ## Presentado por: Data & ML Innovators
 - **Alejandra Cruz R.**
 - **Brusl y Patiño S.**
-- **Juan García C.**
+- **Juan Carlos García Castañeda**
 
 **Marzo 2025**  
 **Bootcamp Xperience**
